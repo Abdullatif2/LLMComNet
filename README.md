@@ -9,11 +9,11 @@ Key Features
 
 **Components**
 
-    communication_system_models.py: Defines Pydantic models for various simulation tasks such as bandwidth optimization, beam prediction, and power allocation.
-    function_call_parser.py: Extracts function calls from XML formatted strings, enhancing data parsing capabilities.
-    llm_model_loader.py: Manages the loading and configuration of transformer models to utilize multi-GPU setups effectively.
-    prompt_setup_utilities.py: Assists in creating enhanced prompts that seamlessly integrate predefined function descriptions for better interaction.
-    response_generator.py: Generates dynamic and context-aware responses based on user inputs and configurable settings.
+    **communication_system_models.py:** Defines Pydantic models for various simulation tasks such as bandwidth optimization, beam prediction, and power allocation.
+    ** function_call_parser.py:**  Extracts function calls from XML formatted strings, enhancing data parsing capabilities.
+    ** llm_model_loader.py:**  Manages the loading and configuration of transformer models to utilize multi-GPU setups effectively.
+    ** prompt_setup_utilities.py:** v Assists in creating enhanced prompts that seamlessly integrate predefined function descriptions for better interaction.
+    ** response_generator.py:**  Generates dynamic and context-aware responses based on user inputs and configurable settings.
 
 **Installation**
 
